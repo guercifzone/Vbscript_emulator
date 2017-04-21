@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+vbscripta
+</name>
+</assembly>
+<members>
+<member name="T:vbscripta.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:vbscripta.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:vbscripta.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:vbscripta.My.Resources.Resources.html">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt; my first project &lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;script language=&quot;vbscript&quot; type=&quot;text/vbscript&quot;&gt;
+
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;.
+</summary>
+</member>
+<member name="P:vbscripta.My.Resources.Resources.vbscript">
+<summary>
+  Looks up a localized string similar to document.write(&quot;Hello World!&quot;).
+</summary>
+</member>
+</members>
+</doc>

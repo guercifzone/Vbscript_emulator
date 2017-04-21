@@ -1,0 +1,12 @@
+c:\users\sadik_000\documents\visual studio 2015\Projects\vbscripta\vbscripta\bin\Debug\vbscripta.exe.config
+c:\users\sadik_000\documents\visual studio 2015\Projects\vbscripta\vbscripta\bin\Debug\vbscripta.exe
+c:\users\sadik_000\documents\visual studio 2015\Projects\vbscripta\vbscripta\bin\Debug\vbscripta.pdb
+c:\users\sadik_000\documents\visual studio 2015\Projects\vbscripta\vbscripta\bin\Debug\vbscripta.xml
+c:\users\sadik_000\documents\visual studio 2015\Projects\vbscripta\vbscripta\obj\Debug\vbscripta.Form1.resources
+c:\users\sadik_000\documents\visual studio 2015\Projects\vbscripta\vbscripta\obj\Debug\vbscripta.Resources.resources
+c:\users\sadik_000\documents\visual studio 2015\Projects\vbscripta\vbscripta\obj\Debug\vbscripta.vbproj.GenerateResource.Cache
+c:\users\sadik_000\documents\visual studio 2015\Projects\vbscripta\vbscripta\obj\Debug\vbscripta.exe
+c:\users\sadik_000\documents\visual studio 2015\Projects\vbscripta\vbscripta\obj\Debug\vbscripta.xml
+c:\users\sadik_000\documents\visual studio 2015\Projects\vbscripta\vbscripta\obj\Debug\vbscripta.pdb
+c:\users\sadik_000\documents\visual studio 2015\Projects\vbscripta\vbscripta\obj\Debug\vbscripta.vbprojResolveAssemblyReference.cache
+c:\users\sadik_000\documents\visual studio 2015\Projects\vbscripta\vbscripta\bin\Debug\FastColoredTextBox.dll
